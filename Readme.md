@@ -21,21 +21,33 @@ I am a computer engineering student at UNAM. I have professional skills and apti
 </div> 
 
 # 📊 GitHub Stats:
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=LanIkari&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LanIkari&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanIkari&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ### ✍️ Random Dev Quote
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+
+<div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=LanIkari&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
+</div>
+
 ---
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=LanIkari&icon=0&color=5)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
