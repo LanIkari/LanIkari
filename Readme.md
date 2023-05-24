@@ -1,11 +1,16 @@
-<p align="center">Hi 👋 My name is Brandon Avendaño Villegas</p><br>
-     <p align="center"> 🖥️ Computer Engineering 🖥️ </p>
-==========================================
+<h1 align="center" >Hi 👋 My name is Brandon Avendaño Villegas
+<p align="center"> 🖥️ Computer Engineering 🖥️ </p></h1>
+
+
 
 I am a computer engineering student at UNAM. I have professional skills and aptitudes in the area of IT with applications developed in Java and Python. I am still looking for new challenges to ﬁnd new and creative ways to face the problems.
 
+<div align="center">
+<a href="https://www.credly.com/badges/7477f64a-73c6-41af-b93d-06d52969d207/public_url" target="_blank"><img aling="center" width="180" height="180" src="https://github.com/LanIkari/BrandonAV-Portfolio/assets/42923366/be27c2b6-6c24-4a6c-be09-953122dcff10"></a>
+</div>
+
 # 💫 About Me:
-🌍 I'm based in México<br>🔭 I'm currently looking for a job <br>👨‍💻 I'm currently develop a Web Store<br>🌱 I'm currently learning Algorithms and Data Structures<br>🤝 I'm open to collaborating on any kind of project<br>✉️ You can contact me at brandon.av.vi@outlook.com<br>⚡️ Aut inveniam viam aut faciam
+🌍 I'm based in México<br>🔭 I'm currently looking for a job <br>👨‍💻 I'm currently develop a Web Store<br>🌱 I'm currently learning Algorithms and Data Structures<br>🤝 I'm open to collaborating on any kind of project<br>✉️ You can contact me at brandon.av.vi@outlook.com<br> 💼 You can know more about me and my work in [my portfolio](https://lanikari.github.io/BrandonAV-Portfolio/).<br>⚡️ Aut inveniam viam aut faciam.
 
 
 ## 🌐 Socials:
