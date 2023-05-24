@@ -1,7 +1,6 @@
 Hi 👋 My name is Brandon Avendaño Villegas
+      🖥️ Computer Engineering 🖥️
 ==========================================
-🖥️ Computer Engineering 🖥️
----------------------------------
 
 I am a computer engineering student at UNAM. I have professional skills and aptitudes in the area of IT with applications developed in Java and Python. I am still looking for new challenges to ﬁnd new and creative ways to face the problems.
 
