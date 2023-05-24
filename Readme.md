@@ -1,4 +1,4 @@
-Hi 👋 My name is Brandon Avendaño Villegas<br>
+<p align="center">Hi 👋 My name is Brandon Avendaño Villegas</p><br>
      <p align="center"> 🖥️ Computer Engineering 🖥️ </p>
 ==========================================
 
