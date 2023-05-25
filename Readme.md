@@ -16,7 +16,7 @@ I am a computer engineering student at UNAM. I have professional skills and apti
 
 # 🥇 Some Badges:
 <div align="center">
-<a href="https://www.credly.com/badges/7477f64a-73c6-41af-b93d-06d52969d207/public_url" target="_blank"> <img aling="center" width="150" height="150" src="https://github.com/LanIkari/BrandonAV-Portfolio/assets/42923366/be27c2b6-6c24-4a6c-be09-953122dcff10" alt="Analisis_Datos"/> </a>
+<a href="https://www.credly.com/badges/7477f64a-73c6-41af-b93d-06d52969d207/public_url" target="_blank"><img aling="center" width="150" height="150" src="https://github.com/LanIkari/BrandonAV-Portfolio/assets/42923366/be27c2b6-6c24-4a6c-be09-953122dcff10" alt="Analisis_Datos"/></a>
 </div> 
 
 ## 🌐 Socials:
